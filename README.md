@@ -3,7 +3,7 @@ Scripts that helped me during my studies at University of Toronto and my intern 
 Most of the scripts should be self-explanatory <br>
 
 - **MAT301 Group and Symmetries.py** <br>
-Zn denotes the multiplicative group of integers modulo <br>
+Zn denotes the multiplicative group of integers modulo n <br>
 Featuring four functions: print_Zn(n), is_cyclic(n), print_cycles(n), print_generator(n) <br>
 
 - **MAT315 Introduction to Number Theory.py** <br>
