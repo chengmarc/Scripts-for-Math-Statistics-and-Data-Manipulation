@@ -13,6 +13,9 @@ Featuring five functions: is_prime(n), coprime_list(n), is_carmichael(n), phi(n)
 This script includes 3 sections: Plotting, CI, and P-values <br>
 Each section should cover 4 distributions: Normal Distribution, T Distribution, Chi-squared Distribution, and F Distribution <br>
 
+- **Prime Factorization using Sieve O(log n) for multiple queries.py** <br>
+An O(log n) alogarithm for factorizing primes. This code is contributed by Mohit Kumar <br> 
+
 - **Common Commands in R for Data Manipulation.R** <br>
 Some common read and write commands for your Ctrl-C and Ctrl-V without reading the documentation <br>
 
